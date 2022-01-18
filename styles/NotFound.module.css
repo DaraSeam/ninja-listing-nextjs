@@ -1,0 +1,10 @@
+.underline {
+    text-decoration: underline;
+    color: #4979ff;
+}
+.notFound {
+  text-align: center;
+  display: grid;
+  grid-auto-flow: row;
+  grid-column-gap: 10px;
+}
